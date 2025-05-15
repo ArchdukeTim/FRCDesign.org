@@ -431,6 +431,6 @@ plugins:
             cards_layout_dir: layouts
             cards_layout: default_page
             debug: false
-
+  
 extra_javascript:
   - javascripts/extra.js
